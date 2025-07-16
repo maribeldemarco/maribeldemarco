@@ -39,9 +39,9 @@ Sitio web responsive hecho con HTML, CSS y JS como proyecto final del curso Full
 
 ---
 
-### 🌱 Actualmente aprendiendo
+### 🌱 Próximamente aprendiendo
 - AWS
-- Integración de IA generativa con Dialogflow
+- Integración de IA generativa 
 
 
 ### 🤝 Me interesa colaborar en:
@@ -58,15 +58,3 @@ Sitio web responsive hecho con HTML, CSS y JS como proyecto final del curso Full
 
 ---
 
- 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
