@@ -3,7 +3,7 @@
 #  ✨   ¡Hola! Soy Linda De Marco
 
 🎓 Estudiante de Tecnicatura en Desarrollo de Software (IFTS N°11, CABA)  
-💻 Desarrolladora frontend trainee con conocimientos en backend y bases de datos  
+💻 Desarrolladora frontend con conocimientos en backend y bases de datos  
 🚀 Buscando mi primera oportunidad profesional en el mundo IT  
 
 
