@@ -1,8 +1,8 @@
-# ✨ ¡Hola! Soy Linda De Marco
+# ✨ ¡Hola! Soy Linda Maribel De Marco
 
 🎓 Técnica en Desarrollo de Software (2025, IFTS N°11, CABA)  
 💻 Desarrolladora con conocimientos en frontend, backend y bases de datos  
-🚀 En búsqueda de mi primera oportunidad profesional en IT  
+🚀 En búsqueda de mi primera oportunidad formal en IT  
 
 ---
 
@@ -33,18 +33,16 @@
 
 ---
 
-### 💼 Proyectos destacados
+### 💼 Proyectos 
 
 📌 **[Chatbot para heladería](https://github.com/maribeldemarco/chatbot)**  
-Aplicación full stack con Angular, Node, Express y MongoDB.  
-Incluye IA generativa (Gemini) para preguntas frecuentes y Dialogflow para pedidos estructurados.  
+Aplicación full stack para gestionar productos, pedidos y atención al cliente mediante chatbot.
+Tecnologías: Angular, Angular Material, CSS, Node.js, Express, MongoDB Atlas, IA (Gemini), Dialogflow
+Funciones:
+• IA generativa (Gemini) para preguntas frecuentes
+• Dialogflow para pedidos guiados y estructurados 
 🌐 [Ver online](https://chatbot-helados.netlify.app)
 
-📌 **Gestión de stock para petshop**  
-Aplicación full stack desarrollada en equipo durante la Tecnicatura. Permite administrar productos y stock.  
-🔗 [Frontend](https://github.com/maribeldemarco/Proyecto-Frontend) | [Backend](https://github.com/maribeldemarco/Proyecto-Backend)  
-Tecnologías: Angular, TypeScript, Node.js, Express, SQL  
-📍 No desplegado aún (funciona localmente)
 
 📌 **[Escuela de ajedrez](https://github.com/maribeldemarco/escueladeajedrez)**  
 Sitio web responsive hecho como proyecto final del curso Full Stack de Codo a Codo.  
@@ -56,12 +54,18 @@ Proyecto personal. Sitio web responsive.
 Tecnologías: HTML, CSS, JavaScript  
 🌐 [Ver online](https://proyectovidasana.netlify.app/)
 
+📌 **Gestión de stock para petshop**  
+Aplicación full stack desarrollada en equipo durante la Tecnicatura. Permite administrar productos y stock.  
+🔗 [Frontend](https://github.com/maribeldemarco/Proyecto-Frontend) | [Backend](https://github.com/maribeldemarco/Proyecto-Backend)  
+Tecnologías: Angular, TypeScript, Node.js, Express, SQL  
+📍 No desplegado aún (funciona localmente)
+
 ---
 
 ### 🤝 También me interesa colaborar en:
 
-- Desarrollo de interfaces amigables y accesibles  
-- Documentación o testing  
+- Documentación
+- Testing  
 
 ---
 
