@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tecnologías que manejo
+### 🛠️ Tecnologías
 
 **Frontend**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -27,7 +27,6 @@
 **Herramientas**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Gantt](https://img.shields.io/badge/Gantt_Charts-4A90E2?style=flat-square&logo=clockify&logoColor=white)
 
@@ -49,10 +48,6 @@ Sitio web responsive hecho como proyecto final del curso Full Stack de Codo a Co
 Tecnologías: HTML, CSS, JavaScript  
 🌐 [Ver online](https://escueladeajedrez.netlify.app)
 
-📌 **[Sitio de Alimentación Saludable](https://github.com/maribeldemarco/proyectovidasana)**  
-Proyecto personal. Sitio web responsive.  
-Tecnologías: HTML, CSS, JavaScript  
-🌐 [Ver online](https://proyectovidasana.netlify.app/)
 
 📌 **Gestión de stock para petshop**  
 Aplicación full stack desarrollada en equipo durante la Tecnicatura. Permite administrar productos y stock.  
