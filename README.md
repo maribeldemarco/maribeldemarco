@@ -53,8 +53,7 @@ Tecnologías: HTML, CSS, JavaScript
 Aplicación full stack desarrollada en equipo durante la Tecnicatura. Permite administrar productos y stock.  
 🔗 [Frontend](https://github.com/maribeldemarco/Proyecto-Frontend) | [Backend](https://github.com/maribeldemarco/Proyecto-Backend)  
 Tecnologías: Angular, TypeScript, Node.js, Express, SQL  
-📍 No desplegado aún (funciona localmente)
-
+🌐 [Ver online](https://petshop-crud.netlify.app)
 ---
 
 ### 🤝 También me interesa colaborar en:
