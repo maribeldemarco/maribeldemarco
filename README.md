@@ -25,18 +25,17 @@ Express
 MongoDB
 SQL
 
-**Herramientas**  
-Git
+**Herramientas y otros**  
+Inglés B1 Git
 Github
 Trello
 
-**Idiomas**
-Inglés B1.
+
 ---
 
 ### 💼 Proyectos 
 
-📌 **[Chatbot para heladería](https://github.com/maribeldemarco/chatbot)**  
+📌 **[Chatbot para heladería](https://github.com/maribeldemarco/chatbot)** ->Hacer click para ver repositorio
 Aplicación full stack para gestionar productos, pedidos y atención al cliente mediante chatbot.
 Tecnologías: Angular, Angular Material, CSS, Node.js, Express, MongoDB Atlas, IA (Gemini), Dialogflow
 Funciones:
@@ -45,7 +44,7 @@ Funciones:
 🌐 [Ver online](https://chatbot-helados.netlify.app)
 
 
-📌 **[Escuela de ajedrez](https://github.com/maribeldemarco/escueladeajedrez)**  
+📌 **[Escuela de ajedrez](https://github.com/maribeldemarco/escueladeajedrez)**  ->Hacer click para ver repositorio
 Sitio web responsive hecho como proyecto final del curso Full Stack de Codo a Codo.  
 Tecnologías: HTML, CSS, JavaScript  
 🌐 [Ver online](https://escueladeajedrez.netlify.app)
