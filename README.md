@@ -1,66 +1,63 @@
 # ✨ ¡Hola! Soy Linda Maribel De Marco
 
-🎓 Técnica en Desarrollo de Software (2025, IFTS N°11, CABA)  
-💻 Desarrolladora con conocimientos en frontend, backend y bases de datos  
-🚀 En búsqueda de mi primera oportunidad formal en IT  
+🎓 Técnica en Desarrollo de Software (2025, IFTS N°11, CABA)
+💻 Desarrolladora con conocimientos en frontend, backend y bases de datos
+🚀 En búsqueda de mi primera oportunidad formal en IT
 
 ---
 
-### 🛠️ Tecnologías
+## 🛠️ Tecnologías
 
-**Frontend**  
-HTML
-CSS
-Javascript
-Angular 
-React
-Bootstrap 
-Typescript
+**Frontend:** HTML · CSS · JavaScript · TypeScript · Angular · React · Bootstrap
 
-**Backend**  
-Node.js
-Express
+**Backend:** Node.js · Express
 
-**Bases de Datos**  
-MongoDB
-SQL
+**Bases de Datos:** MongoDB · SQL
 
-**Herramientas y otros**  
-Inglés B1 Git
-Github
-Trello
-
+**Herramientas y otros:** Git · GitHub · Trello · Inglés B1
 
 ---
 
-### 💼 Proyectos 
+## 💼 Proyectos
 
-📌 **[Chatbot para heladería](https://github.com/maribeldemarco/chatbot)** ->Hacer click para ver repositorio
+### 📌 [Chatbot para heladería](https://github.com/maribeldemarco/chatbot)
+
 Aplicación full stack para gestionar productos, pedidos y atención al cliente mediante chatbot.
-Tecnologías: Angular, Angular Material, CSS, Node.js, Express, MongoDB Atlas, IA (Gemini), Dialogflow
-Funciones:
-• IA generativa (Gemini) para preguntas frecuentes
-• Dialogflow para pedidos guiados y estructurados 
-🌐 [Ver online](https://chatbot-helados.netlify.app)
 
+**Tecnologías:** Angular · Angular Material · CSS · Node.js · Express · MongoDB Atlas · IA (Gemini) · Dialogflow
 
-📌 **[Escuela de ajedrez](https://github.com/maribeldemarco/escueladeajedrez)**  ->Hacer click para ver repositorio
-Sitio web responsive hecho como proyecto final del curso Full Stack de Codo a Codo.  
-Tecnologías: HTML, CSS, JavaScript  
-🌐 [Ver online](https://escueladeajedrez.netlify.app)
+- 🤖 IA generativa (Gemini) para preguntas frecuentes
+- 🗣️ Dialogflow para pedidos guiados y estructurados
 
+🌐 **Demo:** [chatbot-helados.netlify.app](https://chatbot-helados.netlify.app)
 
-📌 **[Aplicación web para Refugio de animales](https://github.com/maribeldemarco/refucat)**  
-Aplicación en React usando componentes funcionales y hooks. Consume una API para mostrar datos en tiempo real. Posee formulario con validaciones. Interfaz de usuario responsive con modo claro/oscuro.  
-Tecnologías: React, JavaScript, Bootstrap
-🌐 [Ver online](https://refu-cat.netlify.app/)
+---
 
+### 📌 [Escuela de ajedrez](https://github.com/maribeldemarco/escueladeajedrez)
 
+Sitio web responsive hecho como proyecto final del curso Full Stack de Codo a Codo.
 
-### 📫 Cómo contactarme
+**Tecnologías:** HTML · CSS · JavaScript
 
-📩 ** maribeldemarco@gmail.com 
-💼 **[LinkedIn](https://www.linkedin.com/in/maribel-demarco/)**  
+🌐 **Demo:** [escueladeajedrez.netlify.app](https://escueladeajedrez.netlify.app)
+
+---
+
+### 📌 [Aplicación web para Refugio de animales](https://github.com/maribeldemarco/refucat)
+
+Aplicación en React usando componentes funcionales y hooks. Consume una API para mostrar datos en tiempo real. Posee formulario con validaciones e interfaz responsive con modo claro/oscuro.
+
+**Tecnologías:** React · JavaScript · Bootstrap
+
+🌐 **Demo:** [refu-cat.netlify.app](https://refu-cat.netlify.app/)
+
+---
+
+## 📫 Contacto
+
+📩 [maribeldemarco@gmail.com](mailto:maribeldemarco@gmail.com)
+
+💼 [LinkedIn — Maribel De Marco](https://www.linkedin.com/in/maribel-demarco/)
 
 
 
