@@ -2,7 +2,7 @@
 
 🎓 Técnica en Desarrollo de Software (2025, IFTS N°11, CABA)
 💻 Desarrolladora con conocimientos en frontend, backend y bases de datos
-🚀 En búsqueda de mi primera oportunidad formal en IT
+
 
 ---
 
