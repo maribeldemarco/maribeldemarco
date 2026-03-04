@@ -8,27 +8,30 @@
 ### 🛠️ Tecnologías
 
 **Frontend**  
-HTML
-CSS
-Javascript
-Angular 
-React
-Bootstrap 
+HTML -
+CSS -
+Javascript -
+Angular  -
+React -
+Bootstrap -
+Typescript
 
 
 **Backend**  
-Node.js
-Express
+Node.js -
+Express 
 
 **Bases de Datos**  
-MongoDB
+MongoDB -
 SQL
 
 **Herramientas**  
-Git
-Github
-Trello
+Git -
+Github -
+Trello-
 
+**Idiomas**
+Inglés intermedio B1.
 ---
 
 ### 💼 Proyectos 
@@ -58,7 +61,7 @@ Stack: React, JavaScript, Bootstrap
 
 ### 📫 Cómo contactarme
 
-📩 ** maribeldemarco@gmail.com 
+📩 maribeldemarco@gmail.com 
 💼 **[LinkedIn](https://www.linkedin.com/in/maribel-demarco/)**  
 
 
