@@ -2,7 +2,6 @@
 
 🎓 Técnica en Desarrollo de Software (2025, IFTS N°11, CABA)  
 💻 Desarrolladora con conocimientos en frontend, backend y bases de datos  
-🚀 En búsqueda de mi primera oportunidad formal en IT  
 
 ---
 
@@ -35,7 +34,7 @@ Trello
 ### 💼 Proyectos 
 
 📌 **[Chatbot para heladería](https://github.com/maribeldemarco/chatbot)**  
-Aplicación full stack para gestionar productos, pedidos y atención al cliente mediante chatbot.
+Aplicación full stack responsive para gestionar productos, pedidos y atención al cliente mediante chatbot.
 Tecnologías: Angular, Angular Material, CSS, Node.js, Express, MongoDB Atlas, IA (Gemini), Dialogflow
 Funciones:
 • IA generativa (Gemini) para preguntas frecuentes
@@ -48,13 +47,13 @@ Sitio web responsive hecho como proyecto final del curso Full Stack de Codo a Co
 Tecnologías: HTML, CSS, JavaScript  
 🌐 [Ver online](https://escueladeajedrez.netlify.app)
 
-
-📌 **[Gestión de stock para petshop]**
-Aplicación full stack desarrollada en equipo durante la Tecnicatura. Permite administrar productos y stock.  
-🔗 [Frontend](https://github.com/maribeldemarco/Proyecto-Frontend) | [Backend](https://github.com/maribeldemarco/Proyecto-Backend)  
-Tecnologías: Angular, TypeScript, Node.js, Express, SQL  
-🌐 [Ver online](https://petshop-crud.netlify.app)
-
+📌 **[Aplicación web para Refugio de animales](https://github.com/maribeldemarco/refucat)**  
+Aplicación en React usando componentes funcionales y hooks. 
+API para mostrar datos en tiempo real.
+Formulario con validaciones.
+Interfaz de usuario responsive con modo claro/oscuro.
+Stack: React, JavaScript, Bootstrap 
+🌐 [Ver online](https://refu-cat.netlify.app/)
 
 
 ### 📫 Cómo contactarme
