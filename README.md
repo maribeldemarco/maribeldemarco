@@ -20,7 +20,7 @@
 
 ## 💼 Proyectos
 
-### 📌 [Chatbot para heladería](https://github.com/maribeldemarco/chatbot)
+### 📌 Chatbot para heladería
 
 Aplicación full stack para gestionar productos, pedidos y atención al cliente mediante chatbot.
 
@@ -29,26 +29,29 @@ Aplicación full stack para gestionar productos, pedidos y atención al cliente 
 - 🤖 IA generativa (Gemini) para preguntas frecuentes
 - 🗣️ Dialogflow para pedidos guiados y estructurados
 
+📂 **Código:** [github.com/maribeldemarco/chatbot](https://github.com/maribeldemarco/chatbot)
 🌐 **Demo:** [chatbot-helados.netlify.app](https://chatbot-helados.netlify.app)
 
 ---
 
-### 📌 [Escuela de ajedrez](https://github.com/maribeldemarco/escueladeajedrez)
+### 📌 Escuela de ajedrez
 
 Sitio web responsive hecho como proyecto final del curso Full Stack de Codo a Codo.
 
 **Tecnologías:** HTML · CSS · JavaScript
 
+📂 **Código:** [github.com/maribeldemarco/escueladeajedrez](https://github.com/maribeldemarco/escueladeajedrez)
 🌐 **Demo:** [escueladeajedrez.netlify.app](https://escueladeajedrez.netlify.app)
 
 ---
 
-### 📌 [Aplicación web para Refugio de animales](https://github.com/maribeldemarco/refucat)
+### 📌 Aplicación web para Refugio de animales
 
 Aplicación en React usando componentes funcionales y hooks. Consume una API para mostrar datos en tiempo real. Posee formulario con validaciones e interfaz responsive con modo claro/oscuro.
 
 **Tecnologías:** React · JavaScript · Bootstrap
 
+📂 **Código:** [github.com/maribeldemarco/refucat](https://github.com/maribeldemarco/refucat)
 🌐 **Demo:** [refu-cat.netlify.app](https://refu-cat.netlify.app/)
 
 ---
@@ -57,8 +60,7 @@ Aplicación en React usando componentes funcionales y hooks. Consume una API par
 
 📩 [maribeldemarco@gmail.com](mailto:maribeldemarco@gmail.com)
 
-💼 [LinkedIn — Maribel De Marco](https://www.linkedin.com/in/maribel-demarco/)
-
+💼 [linkedin.com/in/maribel-demarco](https://www.linkedin.com/in/maribel-demarco/)
 
 
 
